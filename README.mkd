@@ -1,0 +1,31 @@
+# 📚 Book Library Project
+
+  
+![Book Library App Screensho](image.png)
+![Book Library App Screensho](image-1.png)
+🔗 **Live Demo:** [https://master-ji-assignment-4.vercel.app/](https://master-ji-assignment-4.vercel.app/)
+
+A responsive web app that fetches books from Google Books API with real-time search and smart UI rendering.
+
+## 🌟 Key Features
+| Feature          | Emoji | Description                          |
+|------------------|-------|--------------------------------------|
+| API Integration  | 🌐    | Fetch real book data from Google API 
+| Clean UI         | 🎨    | Card-based layout with hover effects |
+| Mobile-Friendly  | 📱    | Responsive grid and typography       |
+
+## 🛠️ Tech Stack  
+- **Frontend**:  
+  ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white)  
+  ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white)  
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)  
+
+- **API**: [Google Books API](https://developers.google.com/books) 📚  
+
+---
+
+## 🏃‍♂️ Quick Start  
+1. Clone the repo:  
+   ```bash
+   git clone https://github.com/YashDevani-source/Master-ji-assignment-4 && cd Master-ji-assignment-4
+
